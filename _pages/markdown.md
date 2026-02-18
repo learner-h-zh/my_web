@@ -1,43 +1,28 @@
 ---
 permalink: /markdown/
-title: "Knowledge Base"
+title: "Paper Reading & Study Log"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## 📑 Paper Reading Notes
+## 📚 Paper Reading Logs
 
-<details open>
-<summary><strong>🤖 Multi-Agent & Decentralized Systems</strong></summary>
-<br>
-<ul>
-  <li><strong>Decentralized MAS:</strong> Focus on coordination and consensus. <a href="https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink">[Read Log]</a></li>
-  <li><strong>FL + MLLM:</strong> Intersection of Privacy and Intelligence. <a href="https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink">[Read Log]</a></li>
-</ul>
-</details>
-
-<details>
-<summary><strong>👁️ Computer Vision & Multimodal</strong></summary>
-<br>
-<ul>
-  <li><strong>MLLM:</strong> Recent survey and classic papers. <a href="https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc">[Read Log]</a></li>
-  <li><strong>VLP for VAD:</strong> Vision-Language Pre-training for Anomaly Detection. <a href="https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge">[Read Log]</a></li>
-</ul>
-</details>
-
-<details>
-<summary><strong>🕸️ Graph Neural Networks</strong></summary>
-<br>
-<ul>
-  <li><strong>GNN for RS:</strong> Recommendation Systems application. <a href="https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg">[Read Log]</a></li>
-</ul>
-</details>
+| Category | Topic | Status | Link |
+|:---|:---|:---:|:---:|
+| **MLLM** | Multimodal Large Language Models | 🟡 On-going | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc) |
+| **VLP-VAD** | Vision Language Model For Video Anomaly Detection | 🟢 Active | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge) |
+| **GNN-RS** | GNN For Recommender Systems | ⚪ Archived | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg) |
+| **FL + MLLM** | Federated Learning + MLLM | 🟢 Active | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink) |
+| **MAS** | Decentralized Multi-Agent System | 🔥 Hot | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink) |
 
 ---
 
-## 📖 IELTS Progress
+## 🎓 IELTS Preparation
 
-* ✅ **Listening:** [Notes Link]
-* ⏳ **Writing:** [Notes Link]
+> **Target:** Focus on Writing & Speaking bands.
+
+* 📝 Writing Task 2 Samples
+* 🗣️ Speaking Part 2 Topics
+* To Be Continue
