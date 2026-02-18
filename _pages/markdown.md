@@ -23,6 +23,6 @@ redirect_from:
 
 > **Target:** Focus on Writing & Speaking bands.
 
-* 📝 Writing Task 2 Samples
-* 🗣️ Speaking Part 2 Topics
+* 📝 [Writing Task 2 Samples]()
+* 🗣️ [Speaking Part 2 Topics]()
 * To Be Continue
