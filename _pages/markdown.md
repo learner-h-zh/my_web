@@ -13,19 +13,24 @@ redirect_from:
 
 * <span class="mllm">MLLM</span>
   
-  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">经典的多模态大模型及近两年顶会论文</span>[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc)
+  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">MLLM</span>[Log](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc)
   
 * <span class="vlp_vad">VLP-VAD</span>
   
-  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">VLP做视频异常检测</span>[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge)
+  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">VLP For Video Anomaly Detection</span>[Log](https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge)
   
 * <span class="gnn_rs">GNN-RS</span>
   
-  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">GNN做推荐系统</span>[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg)
+  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">GNN For RS</span>[Log](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg)
 
 * <span class="gnn_rs">Federated Learning + MLLM</span>
 
-  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">To Be Continue</span>
+  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">FL+MLLM</span>[Log](https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink)
+
+* <span class="gnn_rs">Mulit-agent System</span>
+
+  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">decentralized mas</span>[Log](https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink)
+
 
 IELTS studying
 ======
