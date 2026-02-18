@@ -1,28 +1,27 @@
 ---
 permalink: /markdown/
-title: "Paper Reading & Study Log"
+title: "Research Dashboard"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## 📚 Paper Reading Logs
+## 🔬 Research Focus
 
-| Category | Topic | Status | Link |
-|:---|:---|:---:|:---:|
-| **MLLM** | Multimodal Large Language Models | 🟡 On-going | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc) |
-| **VLP-VAD** | Vision Language Model For Video Anomaly Detection | 🟢 Active | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge) |
-| **GNN-RS** | GNN For Recommender Systems | ⚪ Archived | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg) |
-| **FL + MLLM** | Federated Learning + MLLM | 🟢 Active | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink) |
-| **MAS** | Decentralized Multi-Agent System | 🔥 Hot | [View Log](https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink) |
+### Multimodal Intelligence
+* [![MLLM](https://img.shields.io/badge/Model-MLLM-blue?style=flat-square&logo=google-scholar)](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc) **Multimodal Large Language Models**
+* [![VAD](https://img.shields.io/badge/Task-Video_Anomaly_Detection-orange?style=flat-square)](https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge) **VLP Approaches**
+
+### Decentralized Systems & Agents
+* [![MAS](https://img.shields.io/badge/System-Multi--Agent-blueviolet?style=flat-square&logo=robot-framework)](https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink) **Decentralized MAS** * [![FL](https://img.shields.io/badge/Privacy-Federated_Learning-success?style=flat-square)](https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink) **FL + MLLM Integration**
+
+### Other
+* [![GNN](https://img.shields.io/badge/Graph-GNN_for_RS-lightgrey?style=flat-square)](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg)
 
 ---
 
-## 🎓 IELTS Preparation
+## 🌏 Language Learning (IELTS)
 
-> **Target:** Focus on Writing & Speaking bands.
-
-* 📝 Writing Task 2 Samples
-* 🗣️ Speaking Part 2 Topics
-* To Be Continue
+* **Current Status:** `Preparing`
+* **Notes:** [Click to access IELTS materials](your-link-here)
