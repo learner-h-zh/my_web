@@ -1,27 +1,43 @@
 ---
 permalink: /markdown/
-title: "Research Dashboard"
+title: "Knowledge Base"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## 🔬 Research Focus
+## 📑 Paper Reading Notes
 
-### Multimodal Intelligence
-* [![MLLM](https://img.shields.io/badge/Model-MLLM-blue?style=flat-square&logo=google-scholar)](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc) **Multimodal Large Language Models**
-* [![VAD](https://img.shields.io/badge/Task-Video_Anomaly_Detection-orange?style=flat-square)](https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge) **VLP Approaches**
+<details open>
+<summary><strong>🤖 Multi-Agent & Decentralized Systems</strong></summary>
+<br>
+<ul>
+  <li><strong>Decentralized MAS:</strong> Focus on coordination and consensus. <a href="https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink">[Read Log]</a></li>
+  <li><strong>FL + MLLM:</strong> Intersection of Privacy and Intelligence. <a href="https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink">[Read Log]</a></li>
+</ul>
+</details>
 
-### Decentralized Systems & Agents
-* [![MAS](https://img.shields.io/badge/System-Multi--Agent-blueviolet?style=flat-square&logo=robot-framework)](https://vcnhl39yiabw.feishu.cn/wiki/HkDow8e2Hi5859koDfncMimXnsd?from=from_copylink) **Decentralized MAS** * [![FL](https://img.shields.io/badge/Privacy-Federated_Learning-success?style=flat-square)](https://vcnhl39yiabw.feishu.cn/wiki/ZEZywlW9IixFZoktG2wcAU0RnlU?from=from_copylink) **FL + MLLM Integration**
+<details>
+<summary><strong>👁️ Computer Vision & Multimodal</strong></summary>
+<br>
+<ul>
+  <li><strong>MLLM:</strong> Recent survey and classic papers. <a href="https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc">[Read Log]</a></li>
+  <li><strong>VLP for VAD:</strong> Vision-Language Pre-training for Anomaly Detection. <a href="https://vcnhl39yiabw.feishu.cn/wiki/EkNYw6EuqiCbS5k5y07cBmy5nge">[Read Log]</a></li>
+</ul>
+</details>
 
-### Other
-* [![GNN](https://img.shields.io/badge/Graph-GNN_for_RS-lightgrey?style=flat-square)](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg)
+<details>
+<summary><strong>🕸️ Graph Neural Networks</strong></summary>
+<br>
+<ul>
+  <li><strong>GNN for RS:</strong> Recommendation Systems application. <a href="https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg">[Read Log]</a></li>
+</ul>
+</details>
 
 ---
 
-## 🌏 Language Learning (IELTS)
+## 📖 IELTS Progress
 
-* **Current Status:** `Preparing`
-* **Notes:** [Click to access IELTS materials](your-link-here)
+* ✅ **Listening:** [Notes Link]
+* ⏳ **Writing:** [Notes Link]
