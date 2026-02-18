@@ -6,22 +6,30 @@ redirect_from:
   - /about.html
 ---
 
-<h1><img src="./images/svg_3.svg" alt="icon" style="width: 60px; height: 60px; margin-right: 10px;"> About me</h1>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Hu Zhao, a fourth-year undergraduate student at Liaoning Technical University. I am excited to be joining the School of Computer Science at Beijing Jiaotong University as a graduate student, where I will be working under the supervision of Professor Zheng Shuai.</p>
+## 👨‍💻 About Me
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research interests primarily focus on Multi-Agent System, LLM, and Agentic AI. I am passionate about exploring the intersection of artificial intelligence and practical applications, and I look forward to contributing to the advancement of these fields.</p>
+Hi, I'm **Hu Zhao**. I am currently a fourth-year undergraduate student at **Liaoning Technical University**. 
 
-<br><br><br>
+I am excited to announce that I will be joining the **School of Computer Science at Beijing Jiaotong University (BJTU)** as a graduate student in September 2025, working under the supervision of **Prof. Zheng Shuai**.
 
-<h1><img src="./images/生长.svg" alt="icon" style="width: 50px; height: 50px; margin-right: 10px;"> Experience</h1>
-- 2025.09 - present, iLAB Laboratory, Beijing Jiaotong University.
-- 2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.
+My research interests lie at the intersection of AI and practical applications, primarily focusing on:
+* **Multi-Agent Systems (MAS)**
+* **Large Language Models (LLM)**
+* **Agentic AI**
 
+---
 
-<h1><img src="./images/目标.svg" alt="icon" style="width: 50px; height: 50px; margin-right: 10px;"> News and Update</h1>
-- <p>September 2025, I was admitted to the School of Computer Science at Beijing Jiaotong University! Hard work pays off!  <img src="./images/眨眼.svg" alt="icon" style="width: 30px; height: 30px; margin-right: 15px;"></p>
-- <p>May 2025, my first paper was accepted by the Applied Science journal,This will be the beginning of my new journey!  <img src="./images/rocket.svg" alt="icon" style="width: 30px; height: 30px; margin-right: 15px;"></p>
-- June 2024, Won the National Excellence Award in Algorithm Design at Lanqiao Cup!
-- October 2023, Joined the Neural Network Laboratory, under the guidance of Professor Xiangfu Meng.
-- August 2023, Successfully transferred to the Computer Science major, and began studying coding and algorithms.
+## 🏛️ Experience
 
+* **2025.09 - Present**: Incoming Graduate Student, **iLAB Laboratory**, Beijing Jiaotong University.
+* **2023.09 - 2025.08**: Undergraduate Researcher, **Neural Network Laboratory**, Liaoning Technical University.
+
+---
+
+## 🔥 News & Updates
+
+* **[Sep 2025]** 🎉 I was admitted to the School of Computer Science at **Beijing Jiaotong University**! Hard work pays off! 
+* **[May 2025]** 🚀 My first paper was accepted by the **Applied Science** journal. This marks the beginning of my new journey!
+* **[Jun 2024]** 🏆 Won the **National Excellence Award** in Algorithm Design at the Lanqiao Cup.
+* **[Oct 2023]** 🤝 Joined the Neural Network Laboratory under the guidance of **Prof. Xiangfu Meng**.
+* **[Aug 2023]** 💻 Successfully transferred to the Computer Science major and began my journey in coding and algorithms.
