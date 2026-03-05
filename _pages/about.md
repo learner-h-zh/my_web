@@ -1,35 +1,74 @@
----
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hu Zhao | Homepage</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="papers.html">Papers</a>
+      <a href="work.html">Work</a>
+      <a href="log.html">Log</a>
+    </nav>
 
-## 👨‍💻 About Me
+    <section class="hero">
+      <div>
+        <h1>Hu Zhao</h1>
+        <p>Undergraduate researcher focused on multi-agent systems and large language models. Incoming graduate student at BJTU (Sep 2025).</p>
+        <div class="meta">
+          <div><strong>Email:</strong> zhu42650@gmail.com</div>
+          <div><strong>Location:</strong> Beijing, China</div>
+          <div><strong>Research:</strong> MAS · LLM · Agentic AI</div>
+          <div><strong>GitHub:</strong> <a href="https://github.com/learner-h-zh">learner-h-zh</a></div>
+        </div>
+      </div>
+      <img class="avatar" src="assets/avatar.svg" alt="Hu Zhao" />
+    </section>
 
-Hi, I'm **Hu Zhao**. I am currently a fourth-year undergraduate student at **Liaoning Technical University**. 
+    <section class="section">
+      <h2>Highlights</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Research Focus</h3>
+          <p>Multi-agent systems, large language models, and practical agentic applications.</p>
+        </div>
+        <div class="card">
+          <h3>Current Role</h3>
+          <p>Undergraduate researcher at Liaoning Technical University; joining iLAB, BJTU.</p>
+        </div>
+        <div class="card">
+          <h3>Recent Update</h3>
+          <p>First paper accepted in Applied Science (May 2025).</p>
+        </div>
+      </div>
+    </section>
 
-I am excited to announce that I will be joining the **School of Computer Science at Beijing Jiaotong University (BJTU)** as a graduate student in September 2025, working under the supervision of **Prof. Zheng Shuai**.
+    <section class="section">
+      <h2>Quick Links</h2>
+      <div class="grid">
+        <a class="card" href="papers.html">
+          <h3>Papers</h3>
+          <p>Published and preprint papers.</p>
+        </a>
+        <a class="card" href="work.html">
+          <h3>Work</h3>
+          <p>Recent projects and ongoing work.</p>
+        </a>
+        <a class="card" href="log.html">
+          <h3>Log</h3>
+          <p>Notes, reflections, and experience sharing.</p>
+        </a>
+      </div>
+    </section>
 
-My research interests lie at the intersection of AI and practical applications, primarily focusing on:
-* **Multi-Agent Systems (MAS)**
-* **Large Language Models (LLM)**
-* **Agentic AI**
-
----
-
-## 🏛️ Experience
-
-* **2025.09 - Present**: Incoming Graduate Student, **iLAB Laboratory**, Beijing Jiaotong University.
-* **2023.09 - 2025.08**: Undergraduate Researcher, **Neural Network Laboratory**, Liaoning Technical University.
-
----
-
-## 🔥 News & Updates
-
-* **[Sep 2025]** 🎉 I was admitted to the School of Computer Science at **Beijing Jiaotong University**! Hard work pays off! 
-* **[May 2025]** 🚀 My first paper was accepted by the **Applied Science** journal. This marks the beginning of my new journey!
-* **[Jun 2024]** 🏆 Won the **National Excellence Award** in Algorithm Design at the Lanqiao Cup.
-* **[Oct 2023]** 🤝 Joined the Neural Network Laboratory under the guidance of **Prof. Xiangfu Meng**.
-* **[Aug 2023]** 💻 Successfully transferred to the Computer Science major and began my journey in coding and algorithms.
+    <footer class="footer">© 2026 Hu Zhao. Built with a simple static layout.</footer>
+  </div>
+</body>
+</html>
